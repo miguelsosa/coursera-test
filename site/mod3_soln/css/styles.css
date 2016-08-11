@@ -1,0 +1,16 @@
+.nav-menu-item {
+    background-color: #FEFBD8;
+}
+
+.nav-menu-divider {
+    height: 1px;
+    /* margin: 9px 0;*/
+    overflow: hidden;
+    background-color: #888;
+}
+
+.food-item {
+    background-color: #DEEAEE;
+    padding: 30px;
+    margin: 20px auto;
+}
